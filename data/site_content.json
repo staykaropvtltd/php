@@ -1,0 +1,28 @@
+{
+    "settings": {
+        "site_title": "AIT NEXT GEN PRO & TALENT SOLUTIONS PRIVATE LIMITED",
+        "primary_color": "#1D2D8C",
+        "secondary_color": "#5A39C7",
+        "accent_color": "#2A63D1"
+    },
+    "pages": {
+        "home": {
+            "heading": "Software, Hardware and Talent Solutions",
+            "subheading": "End-to-end delivery for business technology and staffing needs.",
+            "content": "We provide practical software engineering, dependable hardware supply, and deployment support tailored to your timelines and budgets.",
+            "highlight": "One team for planning, implementation, and post-deployment support."
+        },
+        "about": {
+            "heading": "About AIT Next Gen Pro",
+            "subheading": "Focused on quality delivery with transparent execution.",
+            "content": "AIT Next Gen Pro & Talent Solutions Private Limited supports clients with software development, IT infrastructure, and professional talent requirements.",
+            "highlight": "Business-first solutions with measurable results and long-term support."
+        },
+        "service": {
+            "heading": "Our Services",
+            "subheading": "Software, hardware, manpower, and operational support.",
+            "content": "Custom Software Development\nHardware Supply and Installation\nIT AMC and Support Services\nCloud and Infrastructure Consulting\nTalent Staffing and Deployment",
+            "highlight": "Single-point ownership from requirement to delivery."
+        }
+    }
+}
